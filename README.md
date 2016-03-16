@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 Adding more text
+
+### Copyright
+copyright notice
