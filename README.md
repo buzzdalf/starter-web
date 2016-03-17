@@ -4,7 +4,7 @@ This is a simple website project for showing how to use Git and GitHub together.
 
 ## Introduction
 This repository is for showing how Git and GitHub work
-adding more text
+adding more text, adding still more
 
 ## Deployment
 deployment can be on any server
